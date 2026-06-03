@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Environment (examples are tracked at repo root / parent)
+.env
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Vercel
+.vercel/
